@@ -6,7 +6,7 @@ A full can size crystal oscillator that can be programmed for the frequency you 
 ![back](back.png)
 
 ## Info
-This variable crystal oscillator in a full-can form factor can be programmed from frequencies 8kHz to 160MHz. An arduino or pi can easily be used to hook up to the i2c port to set the frequency.
+This variable crystal oscillator in a full-can form factor can be programmed from frequencies 8kHz to 160MHz. An arduino or pi can easily be used to hook up to the i2c port to set the frequency. Use a 3.3V SMD crystal oscillator and install into a 5V system.
 \
 \
 This project is based on the Adafruit Si5351 found here: https://learn.adafruit.com/adafruit-si5351-clock-generator-breakout
