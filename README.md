@@ -10,9 +10,12 @@ This variable crystal oscillator in a full-can form factor can be programmed fro
 \
 \
 This project is based on the Adafruit Si5351 found here: https://learn.adafruit.com/adafruit-si5351-clock-generator-breakout
+\
+Vogons thread for more info: https://www.vogons.org/viewtopic.php?t=82731
 
 ## Programming
 The Adafruit tutorial found here is how this device is programmed: https://learn.adafruit.com/adafruit-si5351-clock-generator-breakout/wiring-and-test
+In-circuit programmer hat: https://github.com/wiretap-retro/Full-Can-Variable-Programmer/
 
 ## Notes
 This project does not utilize the clock enable pin (EN on most datasheets), so it can only be used in parent boards that don't make active use of the clock enable/disable function.
