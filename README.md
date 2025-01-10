@@ -14,7 +14,7 @@ This project is based on the Adafruit Si5351 found here: https://learn.adafruit.
 Vogons thread for more info: https://www.vogons.org/viewtopic.php?t=82731
 
 ## Programming
-The Adafruit tutorial found here is how this device is programmed: https://learn.adafruit.com/adafruit-si5351-clock-generator-breakout/wiring-and-test
+The Adafruit tutorial found here is how this device is programmed: https://learn.adafruit.com/adafruit-si5351-clock-generator-breakout/wiring-and-test \
 In-circuit programmer hat: https://github.com/wiretap-retro/Full-Can-Variable-Programmer/
 
 ## Notes
